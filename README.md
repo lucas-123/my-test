@@ -1,5 +1,5 @@
 # my-test
-test repository
+test repitory
 
 
-sub-branch
+sub-branch2
